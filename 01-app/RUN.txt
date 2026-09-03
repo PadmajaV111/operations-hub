@@ -1,0 +1,7 @@
+Operations Hub
+
+Folders: 01-app  02-database  03-videos  04-feeds
+
+python3 01-app/app.py
+Then open http://127.0.0.1:8080
+Windows: py 01-app/app.py
