@@ -23,6 +23,6 @@ Then open **http://127.0.0.1:8080**
 
 Windows: `py 01-app/app.py`
 
-Download this repo as a zip: GitHub **Code → Download ZIP**.
+To download this repo as a zip from GitHub: **Code → Download ZIP**.
 
 All copyright reserved 2026.

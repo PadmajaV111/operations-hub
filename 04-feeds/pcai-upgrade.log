@@ -1,0 +1,420 @@
+2026-09-01T11:53:00.000Z WARN api-gateway host-30.prod.internal corr-100000 Certificate will expire in 7 days
+2026-09-01T11:46:00.000Z INFO pca-agent host-85.prod.internal corr-100001 PCAI upgrade: rolling restart of worker pods
+2026-09-01T11:39:00.000Z CRITICAL dynamodb host-88.prod.internal corr-100002 PCAI upgrade: rolling restart of worker pods
+2026-09-01T11:32:00.000Z ERROR payment-gateway host-71.prod.internal corr-100003 High memory pressure detected
+2026-09-01T11:25:00.000Z ERROR api-gateway host-30.staging.internal corr-100004 Auth token validation latency elevated
+2026-09-01T11:18:00.000Z WARN pca-agent host-89.prod.internal corr-100005 PCAI upgrade: rolling restart of worker pods
+2026-09-01T11:11:00.000Z INFO dynamodb host-46.prod.internal corr-100006 Auth token validation latency elevated
+2026-09-01T11:04:00.000Z INFO checkout host-86.prod.internal corr-100007 Webhook delivery failed after 3 retries
+2026-09-01T10:57:00.000Z INFO checkout host-48.staging.internal corr-100008 ThrottlingException from DynamoDB
+2026-09-01T10:50:00.000Z INFO api-gateway host-83.staging.internal corr-100009 Upstream timeout from payment provider
+2026-09-01T10:43:00.000Z INFO dynamodb host-80.prod.internal corr-100010 PCAI upgrade: rolling restart of worker pods
+2026-09-01T10:36:00.000Z INFO checkout host-83.prod.internal corr-100011 High memory pressure detected
+2026-09-01T10:29:00.000Z INFO checkout host-78.prod.internal corr-100012 Upstream timeout from payment provider
+2026-09-01T10:22:00.000Z ERROR payment-gateway host-82.prod.internal corr-100013 Circuit breaker opened for Stripe
+2026-09-01T10:15:00.000Z INFO checkout host-44.prod.internal corr-100014 Certificate will expire in 7 days
+2026-09-01T10:08:00.000Z INFO payment-gateway host-83.prod.internal corr-100015 Connection pool exhausted
+2026-09-01T10:01:00.000Z WARN checkout host-92.prod.internal corr-100016 Webhook delivery failed after 3 retries
+2026-09-01T09:54:00.000Z INFO api-gateway host-53.prod.internal corr-100017 Successful canary of payment-retry service
+2026-09-01T09:47:00.000Z WARN checkout host-14.prod.internal corr-100018 ThrottlingException from DynamoDB
+2026-09-01T09:40:00.000Z INFO api-gateway host-70.prod.internal corr-100019 Auth token validation latency elevated
+2026-09-01T09:33:00.000Z WARN dynamodb host-95.prod.internal corr-100020 Certificate will expire in 7 days
+2026-09-01T09:26:00.000Z WARN api-gateway host-70.prod.internal corr-100021 Connection pool exhausted
+2026-09-01T09:19:00.000Z INFO dynamodb host-46.staging.internal corr-100022 Successful canary of payment-retry service
+2026-09-01T09:12:00.000Z WARN dynamodb host-61.prod.internal corr-100023 Circuit breaker opened for Stripe
+2026-09-01T09:05:00.000Z INFO dynamodb host-81.prod.internal corr-100024 Upstream timeout from payment provider
+2026-09-01T08:58:00.000Z INFO dynamodb host-49.prod.internal corr-100025 PCAI upgrade agent started checksum validation
+2026-09-01T08:51:00.000Z CRITICAL pca-agent host-46.prod.internal corr-100026 Upstream timeout from payment provider
+2026-09-01T08:44:00.000Z INFO pca-agent host-19.staging.internal corr-100027 Successful canary of payment-retry service
+2026-09-01T08:37:00.000Z INFO checkout host-12.prod.internal corr-100028 Certificate will expire in 7 days
+2026-09-01T08:30:00.000Z INFO dynamodb host-43.prod.internal corr-100029 PCAI upgrade agent started checksum validation
+2026-09-01T08:23:00.000Z INFO dynamodb host-28.prod.internal corr-100030 Successful canary of payment-retry service
+2026-09-01T08:16:00.000Z INFO api-gateway host-56.prod.internal corr-100031 Upstream timeout from payment provider
+2026-09-01T08:09:00.000Z INFO payment-gateway host-54.prod.internal corr-100032 PCAI upgrade: rolling restart of worker pods
+2026-09-01T08:02:00.000Z WARN checkout host-90.staging.internal corr-100033 Upstream timeout from payment provider
+2026-09-01T07:55:00.000Z INFO checkout host-81.prod.internal corr-100034 Upstream timeout from payment provider
+2026-09-01T07:48:00.000Z INFO api-gateway host-73.prod.internal corr-100035 Auth token validation latency elevated
+2026-09-01T07:41:00.000Z INFO api-gateway host-80.prod.internal corr-100036 High memory pressure detected
+2026-09-01T07:34:00.000Z ERROR dynamodb host-32.prod.internal corr-100037 Webhook delivery failed after 3 retries
+2026-09-01T07:27:00.000Z INFO pca-agent host-10.prod.internal corr-100038 ThrottlingException from DynamoDB
+2026-09-01T07:20:00.000Z INFO api-gateway host-59.prod.internal corr-100039 Upstream timeout from payment provider
+2026-09-01T07:13:00.000Z ERROR pca-agent host-82.prod.internal corr-100040 Certificate will expire in 7 days
+2026-09-01T07:06:00.000Z ERROR dynamodb host-83.prod.internal corr-100041 Successful canary of payment-retry service
+2026-09-01T06:59:00.000Z ERROR payment-gateway host-11.prod.internal corr-100042 Webhook delivery failed after 3 retries
+2026-09-01T06:52:00.000Z ERROR dynamodb host-32.prod.internal corr-100043 High memory pressure detected
+2026-09-01T06:45:00.000Z ERROR api-gateway host-41.prod.internal corr-100044 Webhook delivery failed after 3 retries
+2026-09-01T06:38:00.000Z INFO pca-agent host-49.prod.internal corr-100045 Certificate will expire in 7 days
+2026-09-01T06:31:00.000Z INFO payment-gateway host-66.prod.internal corr-100046 Auth token validation latency elevated
+2026-09-01T06:24:00.000Z WARN payment-gateway host-45.prod.internal corr-100047 Circuit breaker opened for Stripe
+2026-09-01T06:17:00.000Z INFO payment-gateway host-28.prod.internal corr-100048 Certificate will expire in 7 days
+2026-09-01T06:10:00.000Z INFO pca-agent host-15.staging.internal corr-100049 High memory pressure detected
+2026-09-01T06:03:00.000Z INFO pca-agent host-67.prod.internal corr-100050 High memory pressure detected
+2026-09-01T05:56:00.000Z CRITICAL pca-agent host-94.prod.internal corr-100051 Upstream timeout from payment provider
+2026-09-01T05:49:00.000Z INFO api-gateway host-93.prod.internal corr-100052 PCAI upgrade: rolling restart of worker pods
+2026-09-01T05:42:00.000Z ERROR dynamodb host-61.prod.internal corr-100053 High memory pressure detected
+2026-09-01T05:35:00.000Z WARN pca-agent host-77.prod.internal corr-100054 Upstream timeout from payment provider
+2026-09-01T05:28:00.000Z ERROR checkout host-75.staging.internal corr-100055 Auth token validation latency elevated
+2026-09-01T05:21:00.000Z WARN dynamodb host-75.prod.internal corr-100056 Successful canary of payment-retry service
+2026-09-01T05:14:00.000Z WARN payment-gateway host-69.prod.internal corr-100057 PCAI upgrade agent started checksum validation
+2026-09-01T05:07:00.000Z INFO dynamodb host-86.staging.internal corr-100058 Webhook delivery failed after 3 retries
+2026-09-01T05:00:00.000Z INFO checkout host-63.prod.internal corr-100059 Auth token validation latency elevated
+2026-09-01T04:53:00.000Z INFO dynamodb host-51.staging.internal corr-100060 Circuit breaker opened for Stripe
+2026-09-01T04:46:00.000Z INFO dynamodb host-69.staging.internal corr-100061 Circuit breaker opened for Stripe
+2026-09-01T04:39:00.000Z ERROR payment-gateway host-40.prod.internal corr-100062 ThrottlingException from DynamoDB
+2026-09-01T04:32:00.000Z WARN payment-gateway host-30.prod.internal corr-100063 Webhook delivery failed after 3 retries
+2026-09-01T04:25:00.000Z INFO checkout host-94.prod.internal corr-100064 PCAI upgrade agent started checksum validation
+2026-09-01T04:18:00.000Z WARN dynamodb host-24.prod.internal corr-100065 Successful canary of payment-retry service
+2026-09-01T04:11:00.000Z WARN pca-agent host-62.prod.internal corr-100066 Circuit breaker opened for Stripe
+2026-09-01T04:04:00.000Z CRITICAL api-gateway host-49.staging.internal corr-100067 Auth token validation latency elevated
+2026-09-01T03:57:00.000Z INFO checkout host-34.prod.internal corr-100068 Upstream timeout from payment provider
+2026-09-01T03:50:00.000Z WARN api-gateway host-29.prod.internal corr-100069 Certificate will expire in 7 days
+2026-09-01T03:43:00.000Z WARN checkout host-21.prod.internal corr-100070 PCAI upgrade: rolling restart of worker pods
+2026-09-01T03:36:00.000Z INFO dynamodb host-77.prod.internal corr-100071 Connection pool exhausted
+2026-09-01T03:29:00.000Z INFO api-gateway host-22.prod.internal corr-100072 ThrottlingException from DynamoDB
+2026-09-01T03:22:00.000Z INFO dynamodb host-27.prod.internal corr-100073 Circuit breaker opened for Stripe
+2026-09-01T03:15:00.000Z WARN api-gateway host-96.prod.internal corr-100074 Upstream timeout from payment provider
+2026-09-01T03:08:00.000Z INFO dynamodb host-54.prod.internal corr-100075 Auth token validation latency elevated
+2026-09-01T03:01:00.000Z INFO payment-gateway host-97.prod.internal corr-100076 PCAI upgrade agent started checksum validation
+2026-09-01T02:54:00.000Z WARN checkout host-27.prod.internal corr-100077 Webhook delivery failed after 3 retries
+2026-09-01T02:47:00.000Z WARN api-gateway host-61.prod.internal corr-100078 PCAI upgrade: rolling restart of worker pods
+2026-09-01T02:40:00.000Z INFO checkout host-30.prod.internal corr-100079 Connection pool exhausted
+2026-09-01T02:33:00.000Z CRITICAL dynamodb host-65.staging.internal corr-100080 Connection pool exhausted
+2026-09-01T02:26:00.000Z WARN checkout host-56.prod.internal corr-100081 Successful canary of payment-retry service
+2026-09-01T02:19:00.000Z WARN pca-agent host-70.staging.internal corr-100082 Successful canary of payment-retry service
+2026-09-01T02:12:00.000Z ERROR api-gateway host-72.prod.internal corr-100083 PCAI upgrade agent started checksum validation
+2026-09-01T02:05:00.000Z WARN checkout host-10.prod.internal corr-100084 ThrottlingException from DynamoDB
+2026-09-01T01:58:00.000Z INFO checkout host-68.prod.internal corr-100085 Connection pool exhausted
+2026-09-01T01:51:00.000Z WARN dynamodb host-86.staging.internal corr-100086 ThrottlingException from DynamoDB
+2026-09-01T01:44:00.000Z INFO pca-agent host-99.prod.internal corr-100087 Cache miss storm on key pattern order:*
+2026-09-01T01:37:00.000Z WARN dynamodb host-21.prod.internal corr-100088 PCAI upgrade: rolling restart of worker pods
+2026-09-01T01:30:00.000Z ERROR api-gateway host-90.prod.internal corr-100089 Upstream timeout from payment provider
+2026-09-01T01:23:00.000Z INFO payment-gateway host-42.prod.internal corr-100090 Certificate will expire in 7 days
+2026-09-01T01:16:00.000Z INFO pca-agent host-11.staging.internal corr-100091 PCAI upgrade agent started checksum validation
+2026-09-01T01:09:00.000Z INFO pca-agent host-49.prod.internal corr-100092 High memory pressure detected
+2026-09-01T01:02:00.000Z ERROR dynamodb host-51.prod.internal corr-100093 Connection pool exhausted
+2026-09-01T00:55:00.000Z CRITICAL pca-agent host-93.prod.internal corr-100094 Successful canary of payment-retry service
+2026-09-01T00:48:00.000Z WARN api-gateway host-54.prod.internal corr-100095 Upstream timeout from payment provider
+2026-09-01T00:41:00.000Z INFO payment-gateway host-58.staging.internal corr-100096 PCAI upgrade: rolling restart of worker pods
+2026-09-01T00:34:00.000Z INFO payment-gateway host-77.prod.internal corr-100097 High memory pressure detected
+2026-09-01T00:27:00.000Z WARN checkout host-91.prod.internal corr-100098 Cache miss storm on key pattern order:*
+2026-09-01T00:20:00.000Z INFO api-gateway host-36.prod.internal corr-100099 ThrottlingException from DynamoDB
+2026-09-01T00:13:00.000Z WARN payment-gateway host-95.prod.internal corr-100100 High memory pressure detected
+2026-09-01T00:06:00.000Z WARN checkout host-22.prod.internal corr-100101 Successful canary of payment-retry service
+2026-08-31T23:59:00.000Z WARN payment-gateway host-78.prod.internal corr-100102 Successful canary of payment-retry service
+2026-08-31T23:52:00.000Z CRITICAL payment-gateway host-33.prod.internal corr-100103 Auth token validation latency elevated
+2026-08-31T23:45:00.000Z ERROR dynamodb host-33.prod.internal corr-100104 PCAI upgrade: rolling restart of worker pods
+2026-08-31T23:38:00.000Z ERROR payment-gateway host-87.staging.internal corr-100105 Cache miss storm on key pattern order:*
+2026-08-31T23:31:00.000Z ERROR api-gateway host-92.prod.internal corr-100106 Auth token validation latency elevated
+2026-08-31T23:24:00.000Z INFO pca-agent host-13.prod.internal corr-100107 Successful canary of payment-retry service
+2026-08-31T23:17:00.000Z ERROR dynamodb host-47.prod.internal corr-100108 PCAI upgrade agent started checksum validation
+2026-08-31T23:10:00.000Z INFO payment-gateway host-34.prod.internal corr-100109 Webhook delivery failed after 3 retries
+2026-08-31T23:03:00.000Z INFO checkout host-82.prod.internal corr-100110 Cache miss storm on key pattern order:*
+2026-08-31T22:56:00.000Z INFO checkout host-18.prod.internal corr-100111 Successful canary of payment-retry service
+2026-08-31T22:49:00.000Z WARN checkout host-58.staging.internal corr-100112 Auth token validation latency elevated
+2026-08-31T22:42:00.000Z INFO pca-agent host-16.prod.internal corr-100113 Certificate will expire in 7 days
+2026-08-31T22:35:00.000Z ERROR dynamodb host-19.prod.internal corr-100114 Successful canary of payment-retry service
+2026-08-31T22:28:00.000Z WARN dynamodb host-56.prod.internal corr-100115 Certificate will expire in 7 days
+2026-08-31T22:21:00.000Z CRITICAL api-gateway host-49.prod.internal corr-100116 Webhook delivery failed after 3 retries
+2026-08-31T22:14:00.000Z INFO api-gateway host-53.prod.internal corr-100117 Upstream timeout from payment provider
+2026-08-31T22:07:00.000Z INFO api-gateway host-55.prod.internal corr-100118 PCAI upgrade: rolling restart of worker pods
+2026-08-31T22:00:00.000Z INFO pca-agent host-48.prod.internal corr-100119 ThrottlingException from DynamoDB
+2026-08-31T21:53:00.000Z WARN checkout host-85.prod.internal corr-100120 Successful canary of payment-retry service
+2026-08-31T21:46:00.000Z CRITICAL checkout host-75.prod.internal corr-100121 Upstream timeout from payment provider
+2026-08-31T21:39:00.000Z WARN api-gateway host-20.prod.internal corr-100122 ThrottlingException from DynamoDB
+2026-08-31T21:32:00.000Z CRITICAL payment-gateway host-23.prod.internal corr-100123 PCAI upgrade agent started checksum validation
+2026-08-31T21:25:00.000Z ERROR pca-agent host-51.prod.internal corr-100124 Upstream timeout from payment provider
+2026-08-31T21:18:00.000Z ERROR dynamodb host-20.prod.internal corr-100125 ThrottlingException from DynamoDB
+2026-08-31T21:11:00.000Z INFO pca-agent host-44.prod.internal corr-100126 PCAI upgrade agent started checksum validation
+2026-08-31T21:04:00.000Z ERROR dynamodb host-86.staging.internal corr-100127 Auth token validation latency elevated
+2026-08-31T20:57:00.000Z ERROR payment-gateway host-29.prod.internal corr-100128 Circuit breaker opened for Stripe
+2026-08-31T20:50:00.000Z CRITICAL dynamodb host-12.staging.internal corr-100129 Connection pool exhausted
+2026-08-31T20:43:00.000Z ERROR api-gateway host-97.staging.internal corr-100130 Upstream timeout from payment provider
+2026-08-31T20:36:00.000Z WARN api-gateway host-21.prod.internal corr-100131 Circuit breaker opened for Stripe
+2026-08-31T20:29:00.000Z ERROR pca-agent host-34.staging.internal corr-100132 Auth token validation latency elevated
+2026-08-31T20:22:00.000Z ERROR payment-gateway host-82.staging.internal corr-100133 Circuit breaker opened for Stripe
+2026-08-31T20:15:00.000Z INFO api-gateway host-13.prod.internal corr-100134 High memory pressure detected
+2026-08-31T20:08:00.000Z ERROR checkout host-18.prod.internal corr-100135 Certificate will expire in 7 days
+2026-08-31T20:01:00.000Z ERROR dynamodb host-12.prod.internal corr-100136 Circuit breaker opened for Stripe
+2026-08-31T19:54:00.000Z WARN dynamodb host-75.prod.internal corr-100137 High memory pressure detected
+2026-08-31T19:47:00.000Z INFO api-gateway host-60.prod.internal corr-100138 Certificate will expire in 7 days
+2026-08-31T19:40:00.000Z WARN payment-gateway host-73.prod.internal corr-100139 Upstream timeout from payment provider
+2026-08-31T19:33:00.000Z ERROR payment-gateway host-73.prod.internal corr-100140 Circuit breaker opened for Stripe
+2026-08-31T19:26:00.000Z INFO api-gateway host-97.staging.internal corr-100141 Cache miss storm on key pattern order:*
+2026-08-31T19:19:00.000Z INFO api-gateway host-23.prod.internal corr-100142 High memory pressure detected
+2026-08-31T19:12:00.000Z INFO checkout host-25.prod.internal corr-100143 Successful canary of payment-retry service
+2026-08-31T19:05:00.000Z INFO pca-agent host-19.prod.internal corr-100144 PCAI upgrade agent started checksum validation
+2026-08-31T18:58:00.000Z INFO pca-agent host-47.prod.internal corr-100145 ThrottlingException from DynamoDB
+2026-08-31T18:51:00.000Z INFO checkout host-24.prod.internal corr-100146 PCAI upgrade: rolling restart of worker pods
+2026-08-31T18:44:00.000Z ERROR checkout host-85.prod.internal corr-100147 Connection pool exhausted
+2026-08-31T18:37:00.000Z INFO payment-gateway host-80.prod.internal corr-100148 Certificate will expire in 7 days
+2026-08-31T18:30:00.000Z ERROR dynamodb host-22.prod.internal corr-100149 Circuit breaker opened for Stripe
+2026-08-31T18:23:00.000Z INFO dynamodb host-56.staging.internal corr-100150 Cache miss storm on key pattern order:*
+2026-08-31T18:16:00.000Z INFO dynamodb host-81.prod.internal corr-100151 Connection pool exhausted
+2026-08-31T18:09:00.000Z WARN api-gateway host-51.prod.internal corr-100152 Webhook delivery failed after 3 retries
+2026-08-31T18:02:00.000Z INFO checkout host-47.prod.internal corr-100153 PCAI upgrade: rolling restart of worker pods
+2026-08-31T17:55:00.000Z INFO dynamodb host-18.prod.internal corr-100154 Upstream timeout from payment provider
+2026-08-31T17:48:00.000Z INFO api-gateway host-46.staging.internal corr-100155 Cache miss storm on key pattern order:*
+2026-08-31T17:41:00.000Z ERROR api-gateway host-83.prod.internal corr-100156 Cache miss storm on key pattern order:*
+2026-08-31T17:34:00.000Z ERROR pca-agent host-53.prod.internal corr-100157 Upstream timeout from payment provider
+2026-08-31T17:27:00.000Z INFO dynamodb host-55.prod.internal corr-100158 Successful canary of payment-retry service
+2026-08-31T17:20:00.000Z INFO dynamodb host-49.prod.internal corr-100159 ThrottlingException from DynamoDB
+2026-08-31T17:13:00.000Z INFO pca-agent host-42.prod.internal corr-100160 PCAI upgrade agent started checksum validation
+2026-08-31T17:06:00.000Z WARN pca-agent host-57.prod.internal corr-100161 Auth token validation latency elevated
+2026-08-31T16:59:00.000Z CRITICAL dynamodb host-52.prod.internal corr-100162 ThrottlingException from DynamoDB
+2026-08-31T16:52:00.000Z INFO pca-agent host-48.prod.internal corr-100163 Upstream timeout from payment provider
+2026-08-31T16:45:00.000Z WARN pca-agent host-47.prod.internal corr-100164 PCAI upgrade agent started checksum validation
+2026-08-31T16:38:00.000Z INFO api-gateway host-71.prod.internal corr-100165 Successful canary of payment-retry service
+2026-08-31T16:31:00.000Z INFO checkout host-15.staging.internal corr-100166 High memory pressure detected
+2026-08-31T16:24:00.000Z INFO payment-gateway host-96.prod.internal corr-100167 Certificate will expire in 7 days
+2026-08-31T16:17:00.000Z INFO payment-gateway host-88.prod.internal corr-100168 Certificate will expire in 7 days
+2026-08-31T16:10:00.000Z INFO checkout host-72.staging.internal corr-100169 Certificate will expire in 7 days
+2026-08-31T16:03:00.000Z ERROR payment-gateway host-90.prod.internal corr-100170 PCAI upgrade agent started checksum validation
+2026-08-31T15:56:00.000Z INFO pca-agent host-11.prod.internal corr-100171 PCAI upgrade agent started checksum validation
+2026-08-31T15:49:00.000Z INFO checkout host-57.prod.internal corr-100172 Circuit breaker opened for Stripe
+2026-08-31T15:42:00.000Z INFO dynamodb host-23.prod.internal corr-100173 Connection pool exhausted
+2026-08-31T15:35:00.000Z INFO dynamodb host-47.prod.internal corr-100174 Upstream timeout from payment provider
+2026-08-31T15:28:00.000Z INFO payment-gateway host-95.prod.internal corr-100175 Auth token validation latency elevated
+2026-08-31T15:21:00.000Z CRITICAL pca-agent host-89.prod.internal corr-100176 Auth token validation latency elevated
+2026-08-31T15:14:00.000Z WARN dynamodb host-18.prod.internal corr-100177 Cache miss storm on key pattern order:*
+2026-08-31T15:07:00.000Z CRITICAL checkout host-92.prod.internal corr-100178 Successful canary of payment-retry service
+2026-08-31T15:00:00.000Z CRITICAL pca-agent host-82.prod.internal corr-100179 Upstream timeout from payment provider
+2026-08-31T14:53:00.000Z WARN dynamodb host-77.prod.internal corr-100180 Connection pool exhausted
+2026-08-31T14:46:00.000Z INFO api-gateway host-58.prod.internal corr-100181 Webhook delivery failed after 3 retries
+2026-08-31T14:39:00.000Z WARN payment-gateway host-64.prod.internal corr-100182 Circuit breaker opened for Stripe
+2026-08-31T14:32:00.000Z INFO pca-agent host-33.prod.internal corr-100183 High memory pressure detected
+2026-08-31T14:25:00.000Z WARN pca-agent host-47.staging.internal corr-100184 Certificate will expire in 7 days
+2026-08-31T14:18:00.000Z INFO dynamodb host-89.staging.internal corr-100185 ThrottlingException from DynamoDB
+2026-08-31T14:11:00.000Z INFO api-gateway host-87.staging.internal corr-100186 PCAI upgrade: rolling restart of worker pods
+2026-08-31T14:04:00.000Z INFO pca-agent host-49.prod.internal corr-100187 Webhook delivery failed after 3 retries
+2026-08-31T13:57:00.000Z INFO api-gateway host-88.prod.internal corr-100188 Connection pool exhausted
+2026-08-31T13:50:00.000Z WARN pca-agent host-15.prod.internal corr-100189 Upstream timeout from payment provider
+2026-08-31T13:43:00.000Z ERROR payment-gateway host-76.staging.internal corr-100190 Certificate will expire in 7 days
+2026-08-31T13:36:00.000Z WARN checkout host-69.prod.internal corr-100191 Connection pool exhausted
+2026-08-31T13:29:00.000Z WARN pca-agent host-82.prod.internal corr-100192 Webhook delivery failed after 3 retries
+2026-08-31T13:22:00.000Z WARN api-gateway host-90.prod.internal corr-100193 ThrottlingException from DynamoDB
+2026-08-31T13:15:00.000Z ERROR api-gateway host-83.prod.internal corr-100194 Circuit breaker opened for Stripe
+2026-08-31T13:08:00.000Z INFO api-gateway host-13.prod.internal corr-100195 Cache miss storm on key pattern order:*
+2026-08-31T13:01:00.000Z INFO dynamodb host-81.prod.internal corr-100196 Webhook delivery failed after 3 retries
+2026-08-31T12:54:00.000Z WARN api-gateway host-35.prod.internal corr-100197 ThrottlingException from DynamoDB
+2026-08-31T12:47:00.000Z INFO dynamodb host-70.prod.internal corr-100198 Webhook delivery failed after 3 retries
+2026-08-31T12:40:00.000Z INFO pca-agent host-67.prod.internal corr-100199 PCAI upgrade agent started checksum validation
+2026-08-31T12:33:00.000Z ERROR checkout host-15.prod.internal corr-100200 Webhook delivery failed after 3 retries
+2026-08-31T12:26:00.000Z INFO dynamodb host-35.prod.internal corr-100201 Webhook delivery failed after 3 retries
+2026-08-31T12:19:00.000Z INFO pca-agent host-43.prod.internal corr-100202 Certificate will expire in 7 days
+2026-08-31T12:12:00.000Z WARN payment-gateway host-32.prod.internal corr-100203 PCAI upgrade: rolling restart of worker pods
+2026-08-31T12:05:00.000Z WARN api-gateway host-89.prod.internal corr-100204 Webhook delivery failed after 3 retries
+2026-08-31T11:58:00.000Z INFO checkout host-34.prod.internal corr-100205 Connection pool exhausted
+2026-08-31T11:51:00.000Z INFO payment-gateway host-65.prod.internal corr-100206 Successful canary of payment-retry service
+2026-08-31T11:44:00.000Z WARN checkout host-31.prod.internal corr-100207 ThrottlingException from DynamoDB
+2026-08-31T11:37:00.000Z WARN checkout host-54.prod.internal corr-100208 Auth token validation latency elevated
+2026-08-31T11:30:00.000Z INFO payment-gateway host-40.prod.internal corr-100209 Auth token validation latency elevated
+2026-08-31T11:23:00.000Z INFO dynamodb host-42.staging.internal corr-100210 Upstream timeout from payment provider
+2026-08-31T11:16:00.000Z INFO payment-gateway host-93.prod.internal corr-100211 ThrottlingException from DynamoDB
+2026-08-31T11:09:00.000Z ERROR checkout host-46.prod.internal corr-100212 PCAI upgrade: rolling restart of worker pods
+2026-08-31T11:02:00.000Z INFO checkout host-79.prod.internal corr-100213 PCAI upgrade: rolling restart of worker pods
+2026-08-31T10:55:00.000Z INFO checkout host-51.prod.internal corr-100214 Connection pool exhausted
+2026-08-31T10:48:00.000Z INFO dynamodb host-94.prod.internal corr-100215 Certificate will expire in 7 days
+2026-08-31T10:41:00.000Z WARN api-gateway host-61.prod.internal corr-100216 PCAI upgrade: rolling restart of worker pods
+2026-08-31T10:34:00.000Z ERROR dynamodb host-58.prod.internal corr-100217 PCAI upgrade agent started checksum validation
+2026-08-31T10:27:00.000Z INFO checkout host-35.prod.internal corr-100218 Certificate will expire in 7 days
+2026-08-31T10:20:00.000Z WARN checkout host-84.prod.internal corr-100219 PCAI upgrade: rolling restart of worker pods
+2026-08-31T10:13:00.000Z ERROR payment-gateway host-87.prod.internal corr-100220 Circuit breaker opened for Stripe
+2026-08-31T10:06:00.000Z WARN pca-agent host-23.prod.internal corr-100221 Certificate will expire in 7 days
+2026-08-31T09:59:00.000Z WARN payment-gateway host-80.prod.internal corr-100222 High memory pressure detected
+2026-08-31T09:52:00.000Z ERROR api-gateway host-17.prod.internal corr-100223 Successful canary of payment-retry service
+2026-08-31T09:45:00.000Z INFO api-gateway host-25.staging.internal corr-100224 Successful canary of payment-retry service
+2026-08-31T09:38:00.000Z WARN payment-gateway host-39.prod.internal corr-100225 Circuit breaker opened for Stripe
+2026-08-31T09:31:00.000Z INFO checkout host-32.prod.internal corr-100226 Cache miss storm on key pattern order:*
+2026-08-31T09:24:00.000Z INFO pca-agent host-32.staging.internal corr-100227 Cache miss storm on key pattern order:*
+2026-08-31T09:17:00.000Z WARN payment-gateway host-32.prod.internal corr-100228 Successful canary of payment-retry service
+2026-08-31T09:10:00.000Z INFO api-gateway host-66.prod.internal corr-100229 Cache miss storm on key pattern order:*
+2026-08-31T09:03:00.000Z WARN pca-agent host-31.prod.internal corr-100230 Webhook delivery failed after 3 retries
+2026-08-31T08:56:00.000Z ERROR api-gateway host-55.staging.internal corr-100231 PCAI upgrade agent started checksum validation
+2026-08-31T08:49:00.000Z INFO checkout host-53.prod.internal corr-100232 Certificate will expire in 7 days
+2026-08-31T08:42:00.000Z WARN payment-gateway host-43.prod.internal corr-100233 PCAI upgrade: rolling restart of worker pods
+2026-08-31T08:35:00.000Z INFO checkout host-15.prod.internal corr-100234 Upstream timeout from payment provider
+2026-08-31T08:28:00.000Z WARN api-gateway host-87.prod.internal corr-100235 Auth token validation latency elevated
+2026-08-31T08:21:00.000Z ERROR api-gateway host-35.prod.internal corr-100236 Connection pool exhausted
+2026-08-31T08:14:00.000Z INFO api-gateway host-59.prod.internal corr-100237 Successful canary of payment-retry service
+2026-08-31T08:07:00.000Z INFO checkout host-36.staging.internal corr-100238 Certificate will expire in 7 days
+2026-08-31T08:00:00.000Z INFO api-gateway host-35.prod.internal corr-100239 PCAI upgrade agent started checksum validation
+2026-08-31T07:53:00.000Z INFO dynamodb host-84.prod.internal corr-100240 Circuit breaker opened for Stripe
+2026-08-31T07:46:00.000Z INFO dynamodb host-28.prod.internal corr-100241 Auth token validation latency elevated
+2026-08-31T07:39:00.000Z INFO pca-agent host-97.prod.internal corr-100242 Upstream timeout from payment provider
+2026-08-31T07:32:00.000Z INFO api-gateway host-75.staging.internal corr-100243 PCAI upgrade: rolling restart of worker pods
+2026-08-31T07:25:00.000Z WARN dynamodb host-42.staging.internal corr-100244 PCAI upgrade: rolling restart of worker pods
+2026-08-31T07:18:00.000Z INFO checkout host-81.prod.internal corr-100245 Circuit breaker opened for Stripe
+2026-08-31T07:11:00.000Z INFO pca-agent host-76.prod.internal corr-100246 Cache miss storm on key pattern order:*
+2026-08-31T07:04:00.000Z WARN payment-gateway host-56.prod.internal corr-100247 Webhook delivery failed after 3 retries
+2026-08-31T06:57:00.000Z WARN dynamodb host-26.staging.internal corr-100248 Connection pool exhausted
+2026-08-31T06:50:00.000Z WARN pca-agent host-40.prod.internal corr-100249 Successful canary of payment-retry service
+2026-08-31T06:43:00.000Z INFO checkout host-74.prod.internal corr-100250 Certificate will expire in 7 days
+2026-08-31T06:36:00.000Z INFO dynamodb host-47.prod.internal corr-100251 ThrottlingException from DynamoDB
+2026-08-31T06:29:00.000Z ERROR pca-agent host-37.prod.internal corr-100252 Auth token validation latency elevated
+2026-08-31T06:22:00.000Z INFO checkout host-16.prod.internal corr-100253 ThrottlingException from DynamoDB
+2026-08-31T06:15:00.000Z WARN checkout host-22.prod.internal corr-100254 Upstream timeout from payment provider
+2026-08-31T06:08:00.000Z WARN checkout host-23.staging.internal corr-100255 PCAI upgrade: rolling restart of worker pods
+2026-08-31T06:01:00.000Z INFO payment-gateway host-64.prod.internal corr-100256 Circuit breaker opened for Stripe
+2026-08-31T05:54:00.000Z CRITICAL pca-agent host-70.staging.internal corr-100257 Cache miss storm on key pattern order:*
+2026-08-31T05:47:00.000Z ERROR api-gateway host-60.prod.internal corr-100258 Successful canary of payment-retry service
+2026-08-31T05:40:00.000Z WARN pca-agent host-63.prod.internal corr-100259 Webhook delivery failed after 3 retries
+2026-08-31T05:33:00.000Z ERROR dynamodb host-52.staging.internal corr-100260 Auth token validation latency elevated
+2026-08-31T05:26:00.000Z INFO api-gateway host-71.prod.internal corr-100261 PCAI upgrade agent started checksum validation
+2026-08-31T05:19:00.000Z INFO api-gateway host-37.prod.internal corr-100262 Cache miss storm on key pattern order:*
+2026-08-31T05:12:00.000Z WARN payment-gateway host-71.prod.internal corr-100263 Successful canary of payment-retry service
+2026-08-31T05:05:00.000Z CRITICAL api-gateway host-67.prod.internal corr-100264 PCAI upgrade agent started checksum validation
+2026-08-31T04:58:00.000Z INFO payment-gateway host-71.prod.internal corr-100265 PCAI upgrade agent started checksum validation
+2026-08-31T04:51:00.000Z INFO api-gateway host-62.prod.internal corr-100266 ThrottlingException from DynamoDB
+2026-08-31T04:44:00.000Z WARN pca-agent host-81.prod.internal corr-100267 ThrottlingException from DynamoDB
+2026-08-31T04:37:00.000Z INFO api-gateway host-92.prod.internal corr-100268 Circuit breaker opened for Stripe
+2026-08-31T04:30:00.000Z ERROR dynamodb host-53.prod.internal corr-100269 Circuit breaker opened for Stripe
+2026-08-31T04:23:00.000Z ERROR pca-agent host-47.prod.internal corr-100270 Circuit breaker opened for Stripe
+2026-08-31T04:16:00.000Z INFO dynamodb host-96.prod.internal corr-100271 Auth token validation latency elevated
+2026-08-31T04:09:00.000Z INFO dynamodb host-80.prod.internal corr-100272 Successful canary of payment-retry service
+2026-08-31T04:02:00.000Z INFO api-gateway host-89.prod.internal corr-100273 Connection pool exhausted
+2026-08-31T03:55:00.000Z INFO pca-agent host-19.staging.internal corr-100274 Circuit breaker opened for Stripe
+2026-08-31T03:48:00.000Z WARN api-gateway host-17.prod.internal corr-100275 PCAI upgrade agent started checksum validation
+2026-08-31T03:41:00.000Z INFO pca-agent host-55.prod.internal corr-100276 Circuit breaker opened for Stripe
+2026-08-31T03:34:00.000Z WARN checkout host-52.staging.internal corr-100277 High memory pressure detected
+2026-08-31T03:27:00.000Z CRITICAL payment-gateway host-64.staging.internal corr-100278 Certificate will expire in 7 days
+2026-08-31T03:20:00.000Z WARN pca-agent host-81.prod.internal corr-100279 Upstream timeout from payment provider
+2026-08-31T03:13:00.000Z INFO dynamodb host-96.prod.internal corr-100280 Cache miss storm on key pattern order:*
+2026-08-31T03:06:00.000Z ERROR payment-gateway host-30.prod.internal corr-100281 PCAI upgrade agent started checksum validation
+2026-08-31T02:59:00.000Z CRITICAL payment-gateway host-30.prod.internal corr-100282 PCAI upgrade agent started checksum validation
+2026-08-31T02:52:00.000Z INFO checkout host-12.prod.internal corr-100283 High memory pressure detected
+2026-08-31T02:45:00.000Z INFO checkout host-62.staging.internal corr-100284 Auth token validation latency elevated
+2026-08-31T02:38:00.000Z CRITICAL pca-agent host-64.prod.internal corr-100285 PCAI upgrade agent started checksum validation
+2026-08-31T02:31:00.000Z ERROR checkout host-18.prod.internal corr-100286 ThrottlingException from DynamoDB
+2026-08-31T02:24:00.000Z ERROR payment-gateway host-12.prod.internal corr-100287 PCAI upgrade agent started checksum validation
+2026-08-31T02:17:00.000Z WARN checkout host-26.prod.internal corr-100288 Certificate will expire in 7 days
+2026-08-31T02:10:00.000Z WARN checkout host-42.prod.internal corr-100289 Certificate will expire in 7 days
+2026-08-31T02:03:00.000Z ERROR checkout host-45.prod.internal corr-100290 Successful canary of payment-retry service
+2026-08-31T01:56:00.000Z INFO checkout host-79.prod.internal corr-100291 Connection pool exhausted
+2026-08-31T01:49:00.000Z INFO pca-agent host-14.prod.internal corr-100292 PCAI upgrade: rolling restart of worker pods
+2026-08-31T01:42:00.000Z ERROR payment-gateway host-53.prod.internal corr-100293 ThrottlingException from DynamoDB
+2026-08-31T01:35:00.000Z WARN checkout host-64.staging.internal corr-100294 Connection pool exhausted
+2026-08-31T01:28:00.000Z WARN api-gateway host-51.prod.internal corr-100295 PCAI upgrade: rolling restart of worker pods
+2026-08-31T01:21:00.000Z WARN payment-gateway host-11.prod.internal corr-100296 Successful canary of payment-retry service
+2026-08-31T01:14:00.000Z WARN api-gateway host-99.prod.internal corr-100297 Cache miss storm on key pattern order:*
+2026-08-31T01:07:00.000Z ERROR checkout host-85.staging.internal corr-100298 High memory pressure detected
+2026-08-31T01:00:00.000Z ERROR checkout host-57.prod.internal corr-100299 PCAI upgrade agent started checksum validation
+2026-08-31T00:53:00.000Z ERROR payment-gateway host-53.prod.internal corr-100300 Upstream timeout from payment provider
+2026-08-31T00:46:00.000Z INFO payment-gateway host-54.prod.internal corr-100301 Connection pool exhausted
+2026-08-31T00:39:00.000Z INFO pca-agent host-66.staging.internal corr-100302 Auth token validation latency elevated
+2026-08-31T00:32:00.000Z INFO checkout host-53.prod.internal corr-100303 Webhook delivery failed after 3 retries
+2026-08-31T00:25:00.000Z ERROR pca-agent host-14.prod.internal corr-100304 Webhook delivery failed after 3 retries
+2026-08-31T00:18:00.000Z ERROR dynamodb host-59.prod.internal corr-100305 Successful canary of payment-retry service
+2026-08-31T00:11:00.000Z WARN checkout host-67.prod.internal corr-100306 ThrottlingException from DynamoDB
+2026-08-31T00:04:00.000Z INFO dynamodb host-69.prod.internal corr-100307 PCAI upgrade: rolling restart of worker pods
+2026-08-30T23:57:00.000Z ERROR payment-gateway host-29.prod.internal corr-100308 PCAI upgrade agent started checksum validation
+2026-08-30T23:50:00.000Z INFO checkout host-71.prod.internal corr-100309 Circuit breaker opened for Stripe
+2026-08-30T23:43:00.000Z INFO payment-gateway host-24.prod.internal corr-100310 ThrottlingException from DynamoDB
+2026-08-30T23:36:00.000Z INFO pca-agent host-20.prod.internal corr-100311 Upstream timeout from payment provider
+2026-08-30T23:29:00.000Z WARN checkout host-24.staging.internal corr-100312 ThrottlingException from DynamoDB
+2026-08-30T23:22:00.000Z ERROR payment-gateway host-54.prod.internal corr-100313 Cache miss storm on key pattern order:*
+2026-08-30T23:15:00.000Z INFO api-gateway host-19.staging.internal corr-100314 Circuit breaker opened for Stripe
+2026-08-30T23:08:00.000Z WARN payment-gateway host-76.staging.internal corr-100315 ThrottlingException from DynamoDB
+2026-08-30T23:01:00.000Z INFO dynamodb host-39.prod.internal corr-100316 ThrottlingException from DynamoDB
+2026-08-30T22:54:00.000Z INFO checkout host-31.prod.internal corr-100317 Webhook delivery failed after 3 retries
+2026-08-30T22:47:00.000Z WARN dynamodb host-36.prod.internal corr-100318 Certificate will expire in 7 days
+2026-08-30T22:40:00.000Z WARN payment-gateway host-12.staging.internal corr-100319 Upstream timeout from payment provider
+2026-08-30T22:33:00.000Z ERROR payment-gateway host-16.prod.internal corr-100320 Webhook delivery failed after 3 retries
+2026-08-30T22:26:00.000Z WARN dynamodb host-12.prod.internal corr-100321 Webhook delivery failed after 3 retries
+2026-08-30T22:19:00.000Z WARN dynamodb host-55.prod.internal corr-100322 Cache miss storm on key pattern order:*
+2026-08-30T22:12:00.000Z ERROR api-gateway host-50.prod.internal corr-100323 PCAI upgrade agent started checksum validation
+2026-08-30T22:05:00.000Z INFO payment-gateway host-50.prod.internal corr-100324 PCAI upgrade agent started checksum validation
+2026-08-30T21:58:00.000Z WARN api-gateway host-30.prod.internal corr-100325 Cache miss storm on key pattern order:*
+2026-08-30T21:51:00.000Z INFO pca-agent host-36.prod.internal corr-100326 Certificate will expire in 7 days
+2026-08-30T21:44:00.000Z INFO api-gateway host-74.prod.internal corr-100327 ThrottlingException from DynamoDB
+2026-08-30T21:37:00.000Z INFO api-gateway host-50.prod.internal corr-100328 Certificate will expire in 7 days
+2026-08-30T21:30:00.000Z ERROR payment-gateway host-22.prod.internal corr-100329 Connection pool exhausted
+2026-08-30T21:23:00.000Z ERROR payment-gateway host-59.prod.internal corr-100330 Upstream timeout from payment provider
+2026-08-30T21:16:00.000Z INFO checkout host-77.prod.internal corr-100331 High memory pressure detected
+2026-08-30T21:09:00.000Z INFO pca-agent host-90.staging.internal corr-100332 Webhook delivery failed after 3 retries
+2026-08-30T21:02:00.000Z INFO payment-gateway host-65.prod.internal corr-100333 ThrottlingException from DynamoDB
+2026-08-30T20:55:00.000Z INFO api-gateway host-46.prod.internal corr-100334 Successful canary of payment-retry service
+2026-08-30T20:48:00.000Z WARN payment-gateway host-34.staging.internal corr-100335 Circuit breaker opened for Stripe
+2026-08-30T20:41:00.000Z INFO pca-agent host-14.prod.internal corr-100336 Upstream timeout from payment provider
+2026-08-30T20:34:00.000Z ERROR pca-agent host-87.prod.internal corr-100337 PCAI upgrade agent started checksum validation
+2026-08-30T20:27:00.000Z INFO checkout host-27.prod.internal corr-100338 High memory pressure detected
+2026-08-30T20:20:00.000Z ERROR payment-gateway host-50.prod.internal corr-100339 High memory pressure detected
+2026-08-30T20:13:00.000Z WARN checkout host-58.prod.internal corr-100340 PCAI upgrade agent started checksum validation
+2026-08-30T20:06:00.000Z CRITICAL payment-gateway host-56.prod.internal corr-100341 Connection pool exhausted
+2026-08-30T19:59:00.000Z CRITICAL dynamodb host-95.prod.internal corr-100342 Circuit breaker opened for Stripe
+2026-08-30T19:52:00.000Z INFO api-gateway host-81.prod.internal corr-100343 Cache miss storm on key pattern order:*
+2026-08-30T19:45:00.000Z ERROR dynamodb host-62.prod.internal corr-100344 PCAI upgrade: rolling restart of worker pods
+2026-08-30T19:38:00.000Z INFO pca-agent host-12.prod.internal corr-100345 ThrottlingException from DynamoDB
+2026-08-30T19:31:00.000Z ERROR payment-gateway host-50.prod.internal corr-100346 Auth token validation latency elevated
+2026-08-30T19:24:00.000Z ERROR checkout host-52.prod.internal corr-100347 ThrottlingException from DynamoDB
+2026-08-30T19:17:00.000Z WARN dynamodb host-59.prod.internal corr-100348 Certificate will expire in 7 days
+2026-08-30T19:10:00.000Z INFO api-gateway host-55.prod.internal corr-100349 Successful canary of payment-retry service
+2026-08-30T19:03:00.000Z INFO payment-gateway host-87.prod.internal corr-100350 PCAI upgrade: rolling restart of worker pods
+2026-08-30T18:56:00.000Z ERROR checkout host-67.prod.internal corr-100351 PCAI upgrade agent started checksum validation
+2026-08-30T18:49:00.000Z INFO checkout host-60.prod.internal corr-100352 Upstream timeout from payment provider
+2026-08-30T18:42:00.000Z WARN checkout host-54.staging.internal corr-100353 PCAI upgrade: rolling restart of worker pods
+2026-08-30T18:35:00.000Z WARN dynamodb host-95.prod.internal corr-100354 Circuit breaker opened for Stripe
+2026-08-30T18:28:00.000Z INFO dynamodb host-71.prod.internal corr-100355 Webhook delivery failed after 3 retries
+2026-08-30T18:21:00.000Z ERROR api-gateway host-65.prod.internal corr-100356 Successful canary of payment-retry service
+2026-08-30T18:14:00.000Z INFO dynamodb host-74.prod.internal corr-100357 Cache miss storm on key pattern order:*
+2026-08-30T18:07:00.000Z INFO api-gateway host-35.prod.internal corr-100358 Certificate will expire in 7 days
+2026-08-30T18:00:00.000Z WARN api-gateway host-30.prod.internal corr-100359 Successful canary of payment-retry service
+2026-08-30T17:53:00.000Z INFO pca-agent host-73.prod.internal corr-100360 Circuit breaker opened for Stripe
+2026-08-30T17:46:00.000Z WARN checkout host-69.prod.internal corr-100361 Auth token validation latency elevated
+2026-08-30T17:39:00.000Z INFO checkout host-97.staging.internal corr-100362 High memory pressure detected
+2026-08-30T17:32:00.000Z ERROR payment-gateway host-94.prod.internal corr-100363 Connection pool exhausted
+2026-08-30T17:25:00.000Z INFO payment-gateway host-27.prod.internal corr-100364 Connection pool exhausted
+2026-08-30T17:18:00.000Z INFO api-gateway host-88.prod.internal corr-100365 Circuit breaker opened for Stripe
+2026-08-30T17:11:00.000Z INFO checkout host-89.staging.internal corr-100366 Cache miss storm on key pattern order:*
+2026-08-30T17:04:00.000Z INFO pca-agent host-25.staging.internal corr-100367 Cache miss storm on key pattern order:*
+2026-08-30T16:57:00.000Z INFO payment-gateway host-29.prod.internal corr-100368 High memory pressure detected
+2026-08-30T16:50:00.000Z INFO payment-gateway host-42.prod.internal corr-100369 Circuit breaker opened for Stripe
+2026-08-30T16:43:00.000Z ERROR dynamodb host-68.prod.internal corr-100370 High memory pressure detected
+2026-08-30T16:36:00.000Z ERROR dynamodb host-17.prod.internal corr-100371 High memory pressure detected
+2026-08-30T16:29:00.000Z ERROR dynamodb host-33.staging.internal corr-100372 Auth token validation latency elevated
+2026-08-30T16:22:00.000Z WARN pca-agent host-25.staging.internal corr-100373 PCAI upgrade agent started checksum validation
+2026-08-30T16:15:00.000Z WARN dynamodb host-26.prod.internal corr-100374 Cache miss storm on key pattern order:*
+2026-08-30T16:08:00.000Z INFO checkout host-19.prod.internal corr-100375 PCAI upgrade: rolling restart of worker pods
+2026-08-30T16:01:00.000Z INFO api-gateway host-98.prod.internal corr-100376 Successful canary of payment-retry service
+2026-08-30T15:54:00.000Z WARN dynamodb host-91.prod.internal corr-100377 ThrottlingException from DynamoDB
+2026-08-30T15:47:00.000Z WARN checkout host-89.staging.internal corr-100378 High memory pressure detected
+2026-08-30T15:40:00.000Z INFO pca-agent host-28.prod.internal corr-100379 PCAI upgrade: rolling restart of worker pods
+2026-08-30T15:33:00.000Z WARN pca-agent host-54.prod.internal corr-100380 Connection pool exhausted
+2026-08-30T15:26:00.000Z INFO dynamodb host-86.prod.internal corr-100381 Connection pool exhausted
+2026-08-30T15:19:00.000Z INFO pca-agent host-98.prod.internal corr-100382 Certificate will expire in 7 days
+2026-08-30T15:12:00.000Z ERROR checkout host-53.prod.internal corr-100383 Webhook delivery failed after 3 retries
+2026-08-30T15:05:00.000Z INFO checkout host-51.staging.internal corr-100384 High memory pressure detected
+2026-08-30T14:58:00.000Z INFO pca-agent host-27.prod.internal corr-100385 Connection pool exhausted
+2026-08-30T14:51:00.000Z INFO checkout host-46.prod.internal corr-100386 Circuit breaker opened for Stripe
+2026-08-30T14:44:00.000Z INFO api-gateway host-67.staging.internal corr-100387 ThrottlingException from DynamoDB
+2026-08-30T14:37:00.000Z INFO payment-gateway host-77.staging.internal corr-100388 High memory pressure detected
+2026-08-30T14:30:00.000Z WARN pca-agent host-11.prod.internal corr-100389 Cache miss storm on key pattern order:*
+2026-08-30T14:23:00.000Z INFO pca-agent host-12.staging.internal corr-100390 Successful canary of payment-retry service
+2026-08-30T14:16:00.000Z INFO pca-agent host-77.staging.internal corr-100391 Connection pool exhausted
+2026-08-30T14:09:00.000Z ERROR payment-gateway host-23.staging.internal corr-100392 PCAI upgrade agent started checksum validation
+2026-08-30T14:02:00.000Z ERROR payment-gateway host-63.prod.internal corr-100393 Cache miss storm on key pattern order:*
+2026-08-30T13:55:00.000Z INFO dynamodb host-48.staging.internal corr-100394 Auth token validation latency elevated
+2026-08-30T13:48:00.000Z INFO checkout host-62.prod.internal corr-100395 Upstream timeout from payment provider
+2026-08-30T13:41:00.000Z INFO api-gateway host-75.prod.internal corr-100396 Webhook delivery failed after 3 retries
+2026-08-30T13:34:00.000Z INFO api-gateway host-32.prod.internal corr-100397 ThrottlingException from DynamoDB
+2026-08-30T13:27:00.000Z WARN pca-agent host-83.prod.internal corr-100398 Certificate will expire in 7 days
+2026-08-30T13:20:00.000Z WARN pca-agent host-20.prod.internal corr-100399 Cache miss storm on key pattern order:*
+2026-08-30T13:13:00.000Z ERROR pca-agent host-33.prod.internal corr-100400 High memory pressure detected
+2026-08-30T13:06:00.000Z INFO api-gateway host-13.prod.internal corr-100401 Cache miss storm on key pattern order:*
+2026-08-30T12:59:00.000Z WARN api-gateway host-83.prod.internal corr-100402 PCAI upgrade agent started checksum validation
+2026-08-30T12:52:00.000Z ERROR payment-gateway host-24.staging.internal corr-100403 High memory pressure detected
+2026-08-30T12:45:00.000Z INFO api-gateway host-85.prod.internal corr-100404 Webhook delivery failed after 3 retries
+2026-08-30T12:38:00.000Z WARN checkout host-30.prod.internal corr-100405 Circuit breaker opened for Stripe
+2026-08-30T12:31:00.000Z ERROR dynamodb host-92.prod.internal corr-100406 PCAI upgrade: rolling restart of worker pods
+2026-08-30T12:24:00.000Z INFO dynamodb host-56.staging.internal corr-100407 Circuit breaker opened for Stripe
+2026-08-30T12:17:00.000Z WARN dynamodb host-88.prod.internal corr-100408 Successful canary of payment-retry service
+2026-08-30T12:10:00.000Z INFO api-gateway host-49.staging.internal corr-100409 Circuit breaker opened for Stripe
+2026-08-30T12:03:00.000Z WARN payment-gateway host-55.prod.internal corr-100410 Upstream timeout from payment provider
+2026-08-30T11:56:00.000Z INFO pca-agent host-53.prod.internal corr-100411 Successful canary of payment-retry service
+2026-08-30T11:49:00.000Z WARN api-gateway host-84.prod.internal corr-100412 Webhook delivery failed after 3 retries
+2026-08-30T11:42:00.000Z INFO dynamodb host-74.prod.internal corr-100413 PCAI upgrade: rolling restart of worker pods
+2026-08-30T11:35:00.000Z INFO payment-gateway host-34.prod.internal corr-100414 Upstream timeout from payment provider
+2026-08-30T11:28:00.000Z INFO pca-agent host-35.staging.internal corr-100415 Webhook delivery failed after 3 retries
+2026-08-30T11:21:00.000Z CRITICAL payment-gateway host-40.staging.internal corr-100416 ThrottlingException from DynamoDB
+2026-08-30T11:14:00.000Z WARN pca-agent host-79.prod.internal corr-100417 Successful canary of payment-retry service
+2026-08-30T11:07:00.000Z CRITICAL pca-agent host-48.prod.internal corr-100418 Cache miss storm on key pattern order:*
+2026-08-30T11:00:00.000Z INFO api-gateway host-37.prod.internal corr-100419 Webhook delivery failed after 3 retries
